@@ -5,7 +5,7 @@ This is a repository for a 3-hour workshop at O'Reilly AI Conference 2019 run by
 
 ## Software used in this workshop
 During this workshop, we will program everything in Python. To successfully follow the workshop your environment should contain:  
-- Python <= 3.6.8 
+- Python <= 3.6.8 (python 3.6.8 is recommended and having anaconda installed will make things easier)
 - Jupyter notebook 
 
 
