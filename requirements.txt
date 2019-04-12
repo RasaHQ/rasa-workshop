@@ -1,0 +1,5 @@
+rasa_nlu[tensorflow]==0.14.6
+rasa_core==0.13.7
+pandas
+service_identity
+jupyter
