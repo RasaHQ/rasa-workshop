@@ -5,20 +5,20 @@ This is a repository for a 3-hour workshop at O'Reilly AI Conference 2019 run by
 
 ## Software used in this workshop
 During this workshop, we will program everything in Python. To successfully follow the workshop your environment should contain:  
-- Python <= 3.6.8. 
-- Jupyter notebook. 
+- Python <= 3.6.8 
+- Jupyter notebook 
 
 
 During this workshop we will use only open source tools and software:  
-- rasa NLU. 
-- rasa Core 
-- sqlite3. 
-- pandas
-- mongodb
+- rasa NLU  
+- rasa Core  
+- sqlite3  
+- pandas  
+- mongodb  
 
 Additional tools you will need to successfully follow this workshop:  
-- Text editor. 
-- Browser  
+- Text editor  
+- Web browser  
 
 
 ## Installation
@@ -46,4 +46,4 @@ One of the steps in this workshop will also include using a Mongo DB. It's an op
 
 ## Get in touch
 
-If you encounter any problems while installing the dependencies or have any questions regarding this notebook, shoot me a message at juste@rasa.com
+If you encounter any problems while installing the dependencies or have any questions, shoot me a message at juste@rasa.com
