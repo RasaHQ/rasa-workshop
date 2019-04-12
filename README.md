@@ -19,6 +19,7 @@ During this workshop we will use only open source tools and software:
 Additional tools you will need to successfully follow this workshop:  
 - Text editor  
 - Web browser  
+- Terminal  
 
 
 ## Installation
