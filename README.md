@@ -5,25 +5,26 @@ This is a repository for a 3-hour workshop at O'Reilly AI Conference 2019 run by
 
 ## Software used in this workshop
 During this workshop, we will program everything in Python. To successfully follow the workshop your environment should contain:  
-- Python <= 3.6.8. 
-- Jupyter notebook. 
+- Python <= 3.6.8 (python 3.6.8 is recommended and having anaconda installed will make things easier)
+- Jupyter notebook 
 
 
 During this workshop we will use only open source tools and software:  
-- rasa NLU. 
-- rasa Core 
-- sqlite3. 
-- pandas
-- mongodb
+- rasa NLU  
+- rasa Core  
+- sqlite3  
+- pandas  
+- mongodb  
 
 Additional tools you will need to successfully follow this workshop:  
-- Text editor. 
-- Browser  
+- Text editor  
+- Web browser  
+- Terminal  
 
 
 ## Installation
 
-To install the required python modules you can create a virtual environment and install the dependecies there using a requirements.txt file provided in this repo:
+To install the required python modules you can create a virtual environment and install all the required dependecies there using a requirements.txt file provided in this repo:
 
 1. Create a conda environment:
 `conda create -n rasa-workshop python=3.6.8`
@@ -37,7 +38,7 @@ To install the required python modules you can create a virtual environment and 
 
 If you don't want to use virtual environments, you can install the dependecies directly on your system using a requirements.txt file provided in this repo:
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 
 One of the steps in this workshop will also include using a Mongo DB. It's an optional step, but if you want to follow along, make sure to install Mongo DB on your machine as well. You can find the installation intructions for all operating systems [here](https://docs.mongodb.com/manual/installation/).
@@ -57,4 +58,4 @@ This repository consists of a few jupyter notebooks and some additional files:
 
 ## Get in touch
 
-If you encounter any problems while installing the dependencies or have any questions regarding this notebook, shoot me a message at juste@rasa.com
+If you encounter any problems while installing the dependencies or have any questions, shoot me a message at juste@rasa.com
