@@ -1,0 +1,7 @@
+action_endpoint:
+  url: "http://localhost:5055/webhook"
+  
+tracker_store:
+  store_type: mongod
+  url: mongodb://localhost:27017  # (optional) host of the sql db
+  db: rasa  # path to your db
