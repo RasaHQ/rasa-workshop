@@ -1,6 +1,6 @@
 # Building AI assistants that scale using machine learning and open source tools
 
-This is a repository for a 3-hour workshop at O'Reilly AI Conference 2019 run by Justina Petraityte, Developer Advocate at Rasa. The actual exercise will be uploaded here before the workshop, but you can already use this repository to set up your environment.
+This is a repository for a 3-hour workshop at O'Reilly AI Conference 2019 run by Justina Petraityte, Developer Advocate at Rasa. The actual exercise will be uploaded here before the workshop, but you can already use this repository to set up your environment. The slides used in this workshop can be found [here](https://www.slideshare.net/secret/rt4bhIo3Qh4mYR).
 
 
 ## Software used in this workshop
