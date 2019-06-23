@@ -49,7 +49,7 @@ One of the steps in this workshop will also include using a Mongo DB. It's an op
 This repository consists of a few jupyter notebooks and some additional files:
 
 - **rasa_workshop_exercise.ipynb** - is a completed exercise which has all the code implemented. 
-- **rasa_workshop_starter.ipynb** - is a notebook which we will complete liive during the workshop.
+- **rasa_workshop_starter.ipynb** - is a notebook which we will complete live during the workshop.
 - **help files** - a direcotry which contans some help files in case things go wrong during the workshop :)  
 - **bot_ui** - a directory which contains a code for chat UI and a simple html webpage which we will use to connect our assistant to  
 - **Makfile** - a file with some bash commands which you can use to train and run the assistant without jupyter notebook 
